@@ -1,4 +1,4 @@
-##Email Spam Detection
+## Email Spam Detection
 
 This project performs basic analysis of email messages to understand the difference between spam and non-spam emails. The program cleans the email text and visualizes frequently used words using word clouds.
 
